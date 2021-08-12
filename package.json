@@ -1,0 +1,14 @@
+{
+  "name": "unk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "skunk": "./cli.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
